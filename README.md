@@ -1,7 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
+Hacineod el BBM para el curso de flutter.
 
 
-# BMI Calculator 💪
+
+# BMI Calculator
 
 ## Our Goal
 
